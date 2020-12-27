@@ -1,0 +1,468 @@
+@media (min-width: 1025px) and (max-width: 2800px) {
+   html{
+      font-size: 62.5%;
+   }
+   .header-section{
+      width: 100%;
+      height: 109vh;
+      background: url("../images/banner.png")center top no-repeat;
+      background-size: cover;
+   
+   }
+   .top-header img{
+      width: 16rem;
+      margin-left: 7rem;
+   }
+   .banner-section{
+      width: 100%;
+      margin: 10rem 20rem;
+   }
+   .banner-section .inner-banner{
+      width: 100%;
+      margin: 0rem -13rem;
+   
+   }
+   .banner-section .inner-banner h2{
+      font-size: 3.8rem;
+   
+   }
+   .banner-section .inner-banner p{
+      font-size: 1.8rem;
+      font-weight: 500;
+     
+   }
+   .banner-section .btn-section {
+      margin: 5rem -16.5rem;
+  }
+   
+ }
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+   html{
+      font-size: 60.5%;
+   }
+   .top-header img{
+      width: 14rem;
+      margin-left: 8.9rem;
+   }
+   .banner-section{
+      width: 100%;
+      margin: 10rem 13rem;
+   }
+   .banner-section .inner-banner{
+      width: 100%;
+      margin: 0rem -5rem;
+   
+   }
+   .banner-section .inner-banner h2{
+      font-size: 3.8rem;
+   
+   }
+   .banner-section .inner-banner p{
+      font-size: 1.8rem;
+      font-weight: 500;
+     
+   }
+   .banner-section .btn-section {
+      margin: 5rem -9rem;
+  }
+   
+ }
+ 
+ /* 
+   ##Device = Low Resolution Tablets, Mobiles (Landscape)
+   ##Screen = B/w 481px to 767px
+ */
+ 
+ @media (min-width: 481px) and (max-width: 767px) {
+   
+   html{
+      font-size: 55.5%;
+   }
+   .top-header img{
+      width: 12rem;
+      margin-left: 1.7rem;
+   }
+   .banner-section{
+      width: 100%;
+      margin: 6rem 6rem;
+   }
+   .banner-section .inner-banner{
+      width: 100%;
+      margin: 0rem -5rem;
+   
+   }
+   .banner-section .inner-banner h2{
+      font-size: 3.8rem;
+   
+   }
+   .banner-section .inner-banner p{
+      font-size: 1.8rem;
+      font-weight: 500;
+     
+   }
+   .banner-section .btn-section {
+      margin: 5rem -9rem;
+  }
+   /* about-us
+  ============= */
+  .about-us .title {
+   margin-left: -12rem;  
+}
+.about-us .content {
+   margin: 2rem -14rem -5rem;
+   padding: 2rem 4rem;
+   max-width: 100%;
+}
+.about-us .content2 {
+   margin: 1rem -12rem 1rem -12rem;
+   padding: 2rem 4rem;
+   max-width: 92%;
+}
+.about-us .content2 img {
+   margin-bottom: 2rem;
+   margin-left: 4rem;
+}
+/* services-section */
+.services-section {
+   width: 100%;
+   padding: 1rem 2.6rem 0rem;
+   margin: -12rem 0rem;
+}
+.services-section .title h4 {
+   font-size: 2.6rem;
+   line-height: 3.6rem;
+   margin: 1rem 3rem;  
+}
+
+.services-section .title p {
+   font-size: 1.8rem;
+   margin: 4rem 0rem 0rem 2rem;
+   width: 90%;
+}
+.services-section .title p .gap {
+   margin: 0rem;
+
+}
+
+.services-section .inner-icons h6 {
+   font-size: 3rem;
+}
+.services-section .inner-icons p {
+  
+   font-size: 1.6rem;
+   line-height: 2.6rem;
+}
+ 
+
+.icons .inner-icons h6{font-size: 3rem;}
+
+
+.icons .inner-icons p{
+   font-size: 1.4rem;
+   line-height: 2.4rem;}
+/* }safety
+=========== */
+.safety {
+   padding: 8rem 4rem;
+}
+
+.safety .title p {
+   font-size: 1.6rem;
+   line-height: 2.6rem;
+}
+
+.safety .btn-section a {
+   margin-left: 1.8rem;}
+
+ 
+ /* what-we-do
+ ============== */
+.what-we-do {
+   padding: 8rem 4rem;
+}
+.what-we-do .title h4 {
+   font-size: 2.9rem;}
+
+.what-we-do .title p {
+      margin: 0rem 0rem 2rem;
+      width: 82%;}
+.what-we-do .btn-section a {
+         margin-left: 1.6rem;}
+         /* finance-section
+         ================== */
+.finance-section {
+            padding: 0rem 3rem;
+        }
+.finance-section .inner-title h4 {
+ font-size: 2.8rem;}
+.finance-section .time p {
+   color: #32325d;
+   font-size: 1.8rem;}
+.finance-section .img {
+      max-width: 100%;
+      margin: 0rem -2rem;}
+
+ .footer-section .inner-title {
+         margin: 0rem 3.7rem 0rem;
+     }
+ .footer-section .main-form {
+      margin-left: 0rem;}
+      .bootom-footer {
+         background: #212240;
+         padding: 4rem 0rem;
+     }
+ .bootom-footer   .img-fluid {
+      max-width: 50%;}
+
+
+
+      .bootom-footer .display {
+         width: 33%;
+         padding: 0rem 3rem;
+         margin: 0rem -3rem;}
+
+
+/* privacy & copywright */
+.bootom-footer .copywright {
+   max-width: 54%;
+   margin: 3rem auto 0rem;}
+
+   .bootom-footer ul li {
+      padding: 1rem 1rem;
+   }
+
+.bootom-footer .privacy {
+
+max-width: 57%;
+margin: 0rem auto;}
+   
+ }
+ @media (min-width: 564px) and (max-width: 574px) {
+   
+   html{
+      font-size: 55.5%;
+   }
+
+
+   .bootom-footer .display {
+      width: 33%;
+      padding: 0rem 0rem;
+      margin: 0rem 0rem;
+  }
+
+  .bootom-footer .list {
+   width: 100%;
+   margin: 0rem 2rem;
+}
+.bootom-footer .list-2 {
+   width: 100%;
+   margin: 0rem 2rem;
+}
+
+.bootom-footer .list-3 {
+   width: 100%;
+   margin: 0rem 3rem;
+}
+
+
+
+}
+@media (min-width: 576px) and (max-width: 767px) {
+   
+   html{
+      font-size: 55.5%;
+   }
+   .bootom-footer  .display {
+   width: 33%;
+   padding: 0rem 0rem;
+   margin: 0rem 1rem;
+}
+}
+ /* 
+   ##Device = Most of the Smartphones Mobiles (Portrait)
+   ##Screen = B/w 320px to 479px
+ */
+ 
+ @media (min-width: 320px) and (max-width: 480px) {
+   
+   html{
+      font-size: 42.5%;
+   }
+   .top-header img{
+      width: 100px;
+      margin-left: 15px;
+   }
+   .banner-section{
+      width: 100%;
+      margin: 6rem 6rem;
+   }
+   .banner-section .inner-banner{
+      width: 100%;
+      margin: 0rem -5rem;
+   
+   }
+   .banner-section .inner-banner h2{
+      font-size: 3.8rem;
+   
+   }
+   .banner-section .inner-banner p{
+      font-size: 1.8rem;
+      font-weight: 500;
+     
+   }
+   .banner-section .btn-section {
+      margin: 5rem -9rem;
+  }
+  /* about-us
+  ============= */
+  .about-us .title {
+   margin-left: -12rem;  
+}
+.about-us .content {
+   margin: 2rem -14rem -5rem;
+   padding: 2rem 4rem;
+   max-width: 100%;
+}
+.about-us .content2 {
+   margin: 1rem -12rem 1rem -12rem;
+   padding: 2rem 4rem;
+   max-width: 92%;
+}
+.about-us .content2 img {
+   margin-bottom: 2rem;
+   margin-left: 4rem;
+}
+/* services-section */
+.services-section {
+   width: 100%;
+   padding: 1rem 2.6rem 0rem;
+   margin: -12rem 0rem;
+}
+.services-section .title h4 {
+   font-size: 2.6rem;
+   line-height: 3.6rem;
+   margin: 1rem 3rem;  
+}
+
+.services-section .title p {
+   font-size: 1.8rem;
+   margin: 4rem 0rem 0rem 2rem;
+   width: 90%;
+}
+.services-section .title p .gap {
+   margin: 0rem;
+
+}
+
+.services-section .inner-icons h6 {
+   font-size: 3rem;
+}
+.services-section .inner-icons p {
+  
+   font-size: 1.6rem;
+   line-height: 2.6rem;
+}
+ 
+
+.icons .inner-icons h6{font-size: 3rem;}
+
+
+.icons .inner-icons p{
+   font-size: 1.4rem;
+   line-height: 2.4rem;}
+/* }safety
+=========== */
+.safety {
+   padding: 8rem 4rem;
+}
+
+.safety .title p {
+   font-size: 1.6rem;
+   line-height: 2.6rem;
+}
+
+.safety .btn-section a {
+   margin-left: 1.8rem;}
+
+ 
+ /* what-we-do
+ ============== */
+.what-we-do {
+   padding: 8rem 4rem;
+}
+.what-we-do .title h4 {
+   font-size: 2.9rem;}
+
+.what-we-do .title p {
+      margin: 0rem 0rem 2rem;
+      width: 82%;}
+.what-we-do .btn-section a {
+         margin-left: 1.6rem;}
+         /* finance-section
+         ================== */
+.finance-section {
+            padding: 0rem 3rem;
+        }
+.finance-section .inner-title h4 {
+ font-size: 2.8rem;}
+.finance-section .time p {
+   color: #32325d;
+   font-size: 1.8rem;}
+.finance-section .img {
+      max-width: 100%;
+      margin: 0rem -2rem;}
+
+ .footer-section .inner-title {
+         margin: 0rem 3.7rem 0rem;
+     }
+ .footer-section .main-form {
+      margin-left: 0rem;}
+      .bootom-footer {
+         background: #212240;
+         padding: 4rem 0rem;
+     }
+ .bootom-footer   .img-fluid {
+      max-width: 50%;}
+     
+ .bootom-footer .margin {
+         margin: 0rem 3rem 4rem;
+     }
+    
+.bootom-footer .list {
+         width: 100%;
+         margin: 0rem 1.5rem;
+      }
+ .bootom-footer .list-2 {
+         width: 100%;
+         margin: 0rem 1.5rem;
+      }
+.bootom-footer .list-3 {
+         width: 100%;
+         margin: 0rem 1.5rem;
+      }
+
+.bootom-footer .display {
+         width: 33%;
+         padding: 0rem 2rem;}
+.bootom-footer .copywright {
+   max-width: 54%;
+   margin: 3rem auto 0rem;}
+
+   .bootom-footer ul li {
+      padding: 1rem 1rem;
+   }
+
+       .bootom-footer .privacy {
+       
+         max-width: 57%;
+         margin: 0rem auto;}
+
+
+
+
+
+
+
+
+}
